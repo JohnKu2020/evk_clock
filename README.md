@@ -21,7 +21,7 @@ $(document).ready(function(){
 { lang: 'ru|en|ua', width: '100%', backgroundcolor: 'transparent', color: '#000000'}
 ```
 ## How it looks like
-![How it looks](https://evk2.ru/demo/github/evk_clock.gif)
+![How it looks](https://evk.com.ua/demo/github/evk_clock.gif)
 
 ## License
 
